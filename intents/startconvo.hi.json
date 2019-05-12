@@ -1,0 +1,32 @@
+{
+  "id": "54280278-6f36-4a23-9dfd-a09590580e07",
+  "name": "startconvo.hi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "My man! What\u0027s Up?",
+            "Yo dawg!",
+            "Hey!",
+            "Hi there!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

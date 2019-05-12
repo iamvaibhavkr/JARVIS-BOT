@@ -1,0 +1,340 @@
+[
+  {
+    "id": "358cbd4a-f327-424c-8fb1-3f92d16a755e",
+    "data": [
+      {
+        "text": "give me a dad ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "149137bb-aa05-4935-801a-1107d27a285e",
+    "data": [
+      {
+        "text": "Tell me a clean ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adef7f9b-0a6c-4846-9e24-d1313441c153",
+    "data": [
+      {
+        "text": "lol stories",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97bed6c7-5120-4aaf-84bb-d4df98ae4eab",
+    "data": [
+      {
+        "text": "hilarious stories",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d730b4cf-bb2a-405c-b655-444effa9bf9b",
+    "data": [
+      {
+        "text": "funny jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31fc6cb6-5132-42d2-87de-0a2723689585",
+    "data": [
+      {
+        "text": "best funny ",
+        "userDefined": false
+      },
+      {
+        "text": "jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6f21163-2889-4da3-864d-4a520880f48e",
+    "data": [
+      {
+        "text": "hilarious ",
+        "userDefined": false
+      },
+      {
+        "text": "jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "deecf09e-b357-4520-96d1-8d5c186351a4",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "049a7e8f-b817-4673-8975-9e0399282d61",
+    "data": [
+      {
+        "text": "tell me a ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33b18187-f248-4e13-af65-4c9bee982bfa",
+    "data": [
+      {
+        "text": "tell me some ",
+        "userDefined": false
+      },
+      {
+        "text": "jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41136fce-9e85-4b55-a455-8ccddfe95c9d",
+    "data": [
+      {
+        "text": "random ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e0dd7f6-9184-48c7-8ba1-fa3fa59f11c3",
+    "data": [
+      {
+        "text": "give me a random ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a475b9b5-41ce-4693-82e3-f0ecb00b4044",
+    "data": [
+      {
+        "text": "be the ",
+        "userDefined": false
+      },
+      {
+        "text": "joker",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62e4e1a2-ce08-4c4e-a128-f265b3c4df23",
+    "data": [
+      {
+        "text": "make some ",
+        "userDefined": false
+      },
+      {
+        "text": "jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26579ae5-ceac-4279-b5a2-d6845f70438e",
+    "data": [
+      {
+        "text": "hit me up with a ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5b05367-3484-4d48-8d43-7492218b2275",
+    "data": [
+      {
+        "text": "tell a ",
+        "userDefined": false
+      },
+      {
+        "text": "joke",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74e7d311-f616-40c7-9e6e-769f993cfe08",
+    "data": [
+      {
+        "text": "make me happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "313466e4-c444-48b4-a00e-fd7fc41c01ef",
+    "data": [
+      {
+        "text": "make me smile",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "95d61030-3720-4a2a-bf79-4fcd7a31bea7",
+    "data": [
+      {
+        "text": "give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "funny story",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2531fffb-83be-4b00-bd58-e6d49972b659",
+    "data": [
+      {
+        "text": "crack me up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "559db530-07d0-4158-9e42-2f6d8158256b",
+    "data": [
+      {
+        "text": "make me laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed321f05-93b8-4ae9-9c74-facbd4e36eee",
+    "data": [
+      {
+        "text": "jokes",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "1af064e6-0501-4e3a-a916-c8ed23aafdfb",
+  "name": "Jokes - more",
+  "auto": true,
+  "contexts": [
+    "Jokes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Jokes.Jokes-more",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "When I see lovers\u0027 names carved in a tree, I don\u0027t think it\u0027s sweet. I just think it\u0027s surprising how many people bring a knife on a date.",
+            "Anton, do you think I’m a bad mother?\n\nMy name is Paul.",
+            "“Mirror mirror on the wall, who’s the prettiest of them all?”\n \nMirror : “OK, could you step aside a bit? I can’t see, you’re too fat.”",
+            "And God said to John, come forth and you shall be granted eternal life.\nBut John came fifth and won a toaster.",
+            "A blind man walks into a bar. And a table. And a chair.",
+            "Doctor: \"I\u0027m sorry but you suffer from a terminal illness and have only 10 to live.\"\n\nPatient: \"What do you mean, 10? 10 what? Months? Weeks?!\"\n\nDoctor: \"Nine.\"",
+            "I can’t believe I forgot to go to the gym today. That’s 7 years in a row now."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

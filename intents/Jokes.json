@@ -1,0 +1,78 @@
+{
+  "id": "685bc8de-8c06-4137-836b-4c010f162482",
+  "name": "Jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "entjokes-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "Jokes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "kik",
+          "lang": "en",
+          "speech": [
+            "When I see lovers\u0027 names carved in a tree, I don\u0027t think it\u0027s sweet. I just think it\u0027s surprising how many people bring a knife on a date.",
+            "Anton, do you think I’m a bad mother?\n\nMy name is Paul.",
+            "“Mirror mirror on the wall, who’s the prettiest of them all?”\n \nMirror : “OK, could you step aside a bit? I can’t see, you’re too fat.”",
+            "And God said to John, come forth and you shall be granted eternal life.\nBut John came fifth and won a toaster.",
+            "A blind man walks into a bar. And a table. And a chair.",
+            "Doctor: \"I\u0027m sorry but you suffer from a terminal illness and have only 10 to live.\"\n\nPatient: \"What do you mean, 10? 10 what? Months? Weeks?!\"\n\nDoctor: \"Nine.\"",
+            "What did E.T\u0027s mother tell him, when he got home?\n\n\"Where the hell on Earth have you been?\"",
+            "Patient: Doctor help me please, every time I drink a cup of coffee I get this intense stinging in my eye.\n \nDoctor: I suggest you remove the spoon before drinking.",
+            "I can’t believe I forgot to go to the gym today. That’s 7 years in a row now.",
+            "I thought I’d tell you a good time travel joke – but you didn\u0027t like it.",
+            "So much has changed since my girlfriend told me we’re having a baby. For instance my name, address and telephone number!",
+            "Guest at a restaurant: “I refuse to eat this roastbeef. Please call the manager! “\n\nWaiter: “That’s no use. He won’t eat it either.”",
+            "What did E.T\u0027s mother tell him, when he got home?\n\n\"Where the hell on Earth have you been?\"",
+            "A wife is like a hand grenade. Take off the ring and say good bye to your house.",
+            "Q: Is Google a he or a she?\n \nA: A she, no doubt, because it won‘t let you finish your sentence without suggesting other ideas.",
+            "Dentist: “This will hurt a little.”\n\nPatient: “OK.”\n\nDentist: “I’ve been having an affair with your wife for a while now.”",
+            "My Friend: “Oh the weather is lovely today. Shall we go out for a quick jog?“\n\nMe: “Hahaha, I love the way you pronounce ‘Shall we go out and have a cake’!”",
+            "I forgot my cell phone when I went to the toilet yesterday. We have 245 tiles.",
+            "A recent scientific study showed that out of 2,293,618,367 people, 94% are too lazy to actually read that number.",
+            "Two years ago I asked the girl of my dreams on a date, today I asked her to marry me.\n\nShe said no, on both occasions.",
+            "What did one candle say to the other?\n\nA: I\u0027ll be going out tonight."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "When I see lovers\u0027 names carved in a tree, I don\u0027t think it\u0027s sweet. I just think it\u0027s surprising how many people bring a knife on a date.",
+            "Anton, do you think I’m a bad mother?\n\nMy name is Paul.",
+            "“Mirror mirror on the wall, who’s the prettiest of them all?”\n \nMirror : “OK, could you step aside a bit? I can’t see, you’re too fat.”",
+            "And God said to John, come forth and you shall be granted eternal life.\nBut John came fifth and won a toaster.",
+            "A blind man walks into a bar. And a table. And a chair.",
+            "Doctor: \"I\u0027m sorry but you suffer from a terminal illness and have only 10 to live.\"\n\nPatient: \"What do you mean, 10? 10 what? Months? Weeks?!\"\n\nDoctor: \"Nine.\"",
+            "I can’t believe I forgot to go to the gym today. That’s 7 years in a row now."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "kik": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "d1ba3d9c-82a4-487e-b57e-d2f3bbfd9ece",
+  "name": "Intro.mynameis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6fcbd03f-8ea7-421d-a4d5-b96c42848c5c",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi $given-name! A pleasure to meet you.",
+            "Hey $given-name! I\u0027ve been waiting to meet you my entire life.",
+            "A pleasure to meet you $given-name.",
+            "Hi $given-name! What\u0027s up?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
